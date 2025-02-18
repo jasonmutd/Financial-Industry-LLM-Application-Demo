@@ -97,7 +97,7 @@ Agentic AI enhances LLM capabilities by allowing **tool usage, multistep reasoni
 - Mulstep Reasoning
 - Self-iteration
 
-[🎥 View Demo: AAPL Event Driven Analysis](./demos/news_demo.mov) 
+[🎥 View Demo: AAPL Event Driven Analysis](https://youtu.be/_EPYgRShwzM)
 
 
 ## 📚 Documentation
