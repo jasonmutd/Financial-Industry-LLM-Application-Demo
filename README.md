@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/d8e45a64-a40c-4941-8c42-b1af0cccd199
 ### 3. Agentic AI Implementation
 Agentic AI enhances LLM capabilities by allowing **tool usage, multistep reasoning, and self-iteration**.
 
-**Problem** I have the impression that, right before an Apple event, the stock price tends to dip and then rise the following day. To validate this assumption, I created an agentic flow to assist with the analysis.
+**Problem:** I have the impression that, right before an Apple event, the stock price tends to dip and then rise the following day. To validate this assumption, I created an agentic flow to assist with the analysis.
 
 **Key Features:**
 - Rapid deployment framework
