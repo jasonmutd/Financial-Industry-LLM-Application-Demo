@@ -34,7 +34,7 @@ Modern LLM suites primarily operate through **chat-based interfaces**, making th
   - Demonstrates tool-augmented reasoning
   - Custom calculator integration for accurate computations
 
-🎥 View Demo: Enhanced Mathematical Computations demonstrates how Open WebUI integrates with a math computation tool to mitigate hallucination risks. In the video, I tried llama3.3 and deepseek-r1 70b reasoning mdoel, but unfortunately, in my first trial, which I did not record in the video, neither of the models could give me a correct number. In the recorded video, deepseek-r1 70b gives me a correct answer after 5 mins of thinking and reasoning. 
+🎥 View Demo: Enhanced Mathematical Computations demonstrates how Open WebUI integrates with a math computation tool to mitigate hallucination risks. In this video, I am able to deploy various state-of-art open source model locally including llama3.3 and deepseek-r1 70b reasoning model, but unfortunately, in my first trial, which I did not record in the video, neither of the models could give me a correct number for two large numbers multiplication. In the recorded video, deepseek-r1 70b gives me a correct answer after 5 mins of thinking and reasoning. And Open WebUI allows me to define my own calculator in Python and the model is able to call this tool internally to do math calculation.
 
 
 
@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/92abecce-f2a0-4e8e-a6bb-1ee180b74901
 - Enterprise-grade security measures
 - Advanced data processing capabilities
 
-🎥 View Demo: Database Integration shows how users can query structured sales data and perform automated processing via Claude + MCP.
+🎥 View Demo: Database Integration shows how users can query structured sales data and perform automated processing via Claude + MCP. This sqlite database is on premise and Claude Desktop (not the online version) allows model to connect to personal database to do further analysis.
 
 
 
